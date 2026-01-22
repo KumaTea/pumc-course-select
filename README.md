@@ -2,6 +2,10 @@
 
 [北京协和医学院研究生选课系统](https://graduatexk.pumc.edu.cn/graduate/index.do)抢课脚本
 
+<a target="_blank" href="https://colab.research.google.com/github/KumaTea/pumc-course-select/blob/main/main.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 <img src="assets/cover.webp" width="50%" />
 
 ---
